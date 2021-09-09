@@ -3,7 +3,8 @@ package org.launchcode.java.demos.lsn2controlflowandcollections;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ArrayListGradebook {
+public class
+ArrayListGradebook {
 
     public static void main(String[] args) {
 

@@ -9,7 +9,7 @@ public class TempConverter {
         Scanner input;
 
         input = new Scanner(System.in);
-        System.out.println("Enter the temperature in Fahrenheit: ");
+        System.out.println(" enter a temp in celsius");
         fahrenheit = input.nextDouble();
         input.close();
 
